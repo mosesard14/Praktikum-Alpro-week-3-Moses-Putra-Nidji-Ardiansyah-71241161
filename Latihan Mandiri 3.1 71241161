@@ -1,0 +1,10 @@
+Pseudocode
+
+Program prima atau bukan prima
+
+Deklarasi 
+bilangan : interger
+
+Deskripsi
+INPUT bilangan 
+IF n < 2:
