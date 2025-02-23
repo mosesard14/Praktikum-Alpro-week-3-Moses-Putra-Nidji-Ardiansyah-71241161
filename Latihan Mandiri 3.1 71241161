@@ -8,3 +8,15 @@ bilangan : interger
 Deskripsi
 INPUT bilangan 
 IF n < 2:
+    RETURN False
+FOR i from 2  (n**0.5) + 1
+    IF n % i == 0:
+      Return False
+    ENDIF
+ENDFOR
+IF cek_prima(bil) THEN
+        PRINT bil, "prima"
+    ELSE
+        PRINT bil, "bukan prima"
+    ENDIF
+END
